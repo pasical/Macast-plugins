@@ -2,7 +2,7 @@
 
 ## English
 
-BiliBrowser renderer for Macast. It opens the original Bilibili video in your default browser. If the NVA protocol provides aid/cid, it converts AV to BV and opens the corresponding BV video page.
+BiliBrowser renderer for Macast. It opens the original Bilibili video in your default browser.
 
 ### Platform
 
@@ -14,11 +14,11 @@ Requires [NVA (Nirvana) Protocol](https://github.com/xfangfang/Macast-plugins/bl
 
 ### Help
 
-Enable BiliBrowser in Macast. When you cast a Bilibili stream to Macast, the plugin  opens ```https://www.bilibili.com/video/BV...```. Make sure to manually switch the adapter option to NVA; otherwise, your browser will open an m3u8 player.
+Download the plugin to the renderer folder, enable BiliBrowser in Macast. When you cast a Bilibili stream to Macast, the plugin  opens ```https://www.bilibili.com/video/BV...```. Make sure to manually switch the adapter option to NVA; otherwise, your browser will open an m3u8 player.
 
 ## 中文
 
-BiliBrowser 是为 Macast 开发的渲染器插件，会在默认浏览器中打开源哔哩哔哩视频；若可从 NVA 协议获取 aid/cid，则会将 AV 号转换为 BV 号并跳转到对应视频页。
+BiliBrowser 是为 Macast 开发的播放器插件，会在默认浏览器中打开哔哩哔哩视频源链接。
 
 ### 平台
 
@@ -30,4 +30,4 @@ darwin win32 linux
 
 ### 使用帮助
 
-在 Macast 中启用 "BiliBrowser"。当向 Macast 投送 B 站内容时，插件会在浏览器打开 ```https://www.bilibili.com/video/BV...```。请务必手动将适配器选项切换为 NVA，否则浏览器会直接打开 m3u8 播放器。
+将插件放在 renderer 文件夹，在 Macast 中启用 "BiliBrowser"。当向 Macast 投送 B 站内容时，插件会在浏览器打开 ```https://www.bilibili.com/video/BV...```。请务必手动将适配器选项切换为 NVA，否则浏览器会直接打开 m3u8 播放器。

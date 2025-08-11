@@ -31,6 +31,7 @@
 | PotPlayer  |       |                          | ☑️       | PotPlayer 适配插件                                | [potplayer.py](https://gitee.com/xfangfang/Macast-plugins/raw/main/potplayer/potplayer.py)  [README](https://gitee.com/xfangfang/Macast-plugins/tree/main/potplayer) |<img width="265" alt="image" src="https://user-images.githubusercontent.com/16631584/143246295-cd7b4618-f90c-445a-b9c0-1ec0b7bdf885.png">
 | PI-FM-RDS  |       | ☑️ (只能用在树莓派上) |         | 使用这个插件接收mp3媒体链接并用pi-fm-rds以fm广播的形式发送       | [pi_fm.py](https://gitee.com/xfangfang/Macast-plugins/raw/main/pi-fm-rds/pi_fm.py)  [README](https://gitee.com/xfangfang/Macast-plugins/tree/main/pi-fm-rds) |
 | WebBrowser | ☑️     | ☑️                        | ☑️       | 这个插件可以用于使用浏览器下载媒体文件，或播放某些不受mpv支持的m3u8文件 | [web.py](https://gitee.com/xfangfang/Macast-plugins/raw/main/web/web.py)  [README](https://gitee.com/xfangfang/Macast-plugins/tree/main/web) |
+| BiliBrowser | ☑️     | ☑️                        | ☑️       | 在默认浏览器打开 B 站视频（依赖 NVA 协议获取 BV 号） | [bilibrowser.py](https://raw.githubusercontent.com/pasical/Macast-plugins/main/bilibrowser/bilibrowser.py)  [README](https://github.com/pasical/Macast-plugins/tree/main/bilibrowser) |
 | Nirvana（协议） | ☑️     | ☑️                        | ☑️       | 这个插件用于适配B站的私有协议，仅用于编程学习使用，禁止用做商业用途，如有侵权，请联系作者删除。 | [nirvana.py](https://gitee.com/xfangfang/Macast-plugins/raw/main/nirvana/nirvana.py)  [README](https://gitee.com/xfangfang/Macast-plugins/tree/main/nirvana) |
 
 
